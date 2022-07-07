@@ -1,0 +1,20 @@
+.body{
+    background-color: lightgray;
+}
+.flex_container{
+    align-items: center;
+}
+.card{
+    width: 50%;
+    height: 20vw;
+    margin: 2px;
+    box-shadow: 10px 10px 10px #000;
+    margin: 10px;
+}
+
+.card h5,h6,p{
+    margin:8px;
+}
+.card p{
+    font-size: 1.5vw;
+}
